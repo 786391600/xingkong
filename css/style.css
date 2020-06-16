@@ -19,12 +19,12 @@ html{
     overflow: hidden;
 }
 div#midground{
-    background: url("../img/midground.png");
+    background: url("../img/midground.jpg");
    /* z-index:1;*/ overflow: hidden;
     animation: cc 20s linear infinite;
 }
 div#foreground{
-    background: url("../img/foreground.png"); overflow: hidden;
+    background: url("../img/foreground.jpg"); overflow: hidden;
     /* z-index:2; */
     animation: cc 10s linear infinite;
 }
